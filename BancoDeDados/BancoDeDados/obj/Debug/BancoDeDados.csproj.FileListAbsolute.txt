@@ -1,0 +1,20 @@
+C:\Users\Aluno\Desktop\trabalho\BancoDeDados\BancoDeDados\bin\Debug\BancoDeDados.exe.config
+C:\Users\Aluno\Desktop\trabalho\BancoDeDados\BancoDeDados\bin\Debug\BancoDeDados.exe
+C:\Users\Aluno\Desktop\trabalho\BancoDeDados\BancoDeDados\bin\Debug\BancoDeDados.pdb
+C:\Users\Aluno\Desktop\trabalho\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\trabalho\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.Form1.resources
+C:\Users\Aluno\Desktop\trabalho\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.Properties.Resources.resources
+C:\Users\Aluno\Desktop\trabalho\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\trabalho\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\trabalho\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.exe
+C:\Users\Aluno\Desktop\trabalho\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.pdb
+C:\Users\Micro\OneDrive - Etec Centro Paula Souza\Desktop\trabalho\BancoDeDados\BancoDeDados\bin\Debug\BancoDeDados.exe.config
+C:\Users\Micro\OneDrive - Etec Centro Paula Souza\Desktop\trabalho\BancoDeDados\BancoDeDados\bin\Debug\BancoDeDados.exe
+C:\Users\Micro\OneDrive - Etec Centro Paula Souza\Desktop\trabalho\BancoDeDados\BancoDeDados\bin\Debug\BancoDeDados.pdb
+C:\Users\Micro\OneDrive - Etec Centro Paula Souza\Desktop\trabalho\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.csproj.AssemblyReference.cache
+C:\Users\Micro\OneDrive - Etec Centro Paula Souza\Desktop\trabalho\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.Form1.resources
+C:\Users\Micro\OneDrive - Etec Centro Paula Souza\Desktop\trabalho\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.Properties.Resources.resources
+C:\Users\Micro\OneDrive - Etec Centro Paula Souza\Desktop\trabalho\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.csproj.GenerateResource.cache
+C:\Users\Micro\OneDrive - Etec Centro Paula Souza\Desktop\trabalho\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Micro\OneDrive - Etec Centro Paula Souza\Desktop\trabalho\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.exe
+C:\Users\Micro\OneDrive - Etec Centro Paula Souza\Desktop\trabalho\BancoDeDados\BancoDeDados\obj\Debug\BancoDeDados.pdb
